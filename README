@@ -1,4 +1,4 @@
-🎮 Palavra Secreta (Secret Word)
+# 🎮 Palavra Secreta (Secret Word)
 
 ---
 
@@ -11,12 +11,12 @@ This project is part of my learning journey — I’m practicing programming log
 
 ---
 
-📚 Tecnologias / Technologies
+# 📚 Tecnologias / Technologies
 - Python 3 🐍
 
 ---
 
-💡 Como jogar / How to play
+# 💡 Como jogar / How to play
 
 1. Rode o arquivo `palavra_secreta.py`.
 2. Tente adivinhar a palavra digitando uma letra por vez.

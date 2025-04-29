@@ -22,7 +22,7 @@ This project is part of my learning journey — I’m practicing programming log
 2. Tente adivinhar a palavra digitando uma letra por vez.
 3. Você tem 15 tentativas no total — cada letra errada ou repetida conta!
 4. O jogo termina se você acertar a palavra... ou usar todas as chances!
-
+---
 1. Run the `palavra_secreta.py` file.
 2. Try to guess the word by typing one letter at a time.
 3. You have 15 attempts in total — every wrong or repeated letter counts!
